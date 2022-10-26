@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bennet</h1>
-<h3 align="center">A passionate data science enthusiast.</h3>
 
 - 🌱 I’m currently learning **Django Web Framework**
 
